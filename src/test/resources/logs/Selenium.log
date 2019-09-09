@@ -1,0 +1,22 @@
+20:01:40,973 DEBUG devpinoyLogger:30 - Config loaded
+20:01:40,975 DEBUG devpinoyLogger:40 - OR loaded
+20:01:45,283 DEBUG devpinoyLogger:54 - Navigated to: http://www.way2automation.com/angularjs-protractor/banking/#/login
+20:07:44,964 DEBUG devpinoyLogger:30 - Config loaded
+20:07:44,967 DEBUG devpinoyLogger:40 - OR loaded
+20:07:49,854 DEBUG devpinoyLogger:54 - Navigated to: http://www.way2automation.com/angularjs-protractor/banking/#/login
+20:07:51,057 DEBUG devpinoyLogger:13 - Inside Test
+20:07:51,120 DEBUG devpinoyLogger:15 - Clicked on Bank Manager Login Button
+20:07:54,812 DEBUG devpinoyLogger:67 - Test Execution Completed
+20:39:15,638 DEBUG devpinoyLogger:32 - Config loaded
+20:39:15,640 DEBUG devpinoyLogger:42 - OR loaded
+20:39:20,918 DEBUG devpinoyLogger:56 - Navigated to: http://www.way2automation.com/angularjs-protractor/banking/#/login
+20:39:22,064 DEBUG devpinoyLogger:14 - Inside Test
+20:39:22,163 DEBUG devpinoyLogger:16 - Clicked on Bank Manager Login Button
+20:39:25,796 DEBUG devpinoyLogger:80 - Test Execution Completed
+20:40:26,485 DEBUG devpinoyLogger:32 - Config loaded
+20:40:26,487 DEBUG devpinoyLogger:42 - OR loaded
+20:40:30,867 DEBUG devpinoyLogger:56 - Navigated to: http://www.way2automation.com/angularjs-protractor/banking/#/login
+20:40:32,082 DEBUG devpinoyLogger:14 - Inside Test
+20:40:32,168 DEBUG devpinoyLogger:16 - Clicked on Bank Manager Login Button
+20:40:35,205 DEBUG devpinoyLogger:27 - Button is displayed
+20:40:35,853 DEBUG devpinoyLogger:80 - Test Execution Completed
